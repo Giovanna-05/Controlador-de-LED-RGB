@@ -24,11 +24,15 @@ IDE do Arduino.
 Conecte o LED RGB ao Arduino seguindo o diagrama abaixo
 
 R = 2
+
 G = 3
+
 B = 4
 
 Botão 1 = 13
+
 Botão 2 = 12
+
 Botão 3 = 11
 
 2. Carregar o Código
